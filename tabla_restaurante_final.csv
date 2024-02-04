@@ -1,0 +1,461 @@
+ID re,Tipo de restaurante,Forma de pago que aceptan,Dias abierto
+132012,Francesa - Belga,2-3,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132023,Francesa - Belga,2-3,Sa-Sa-Do-Do-Toda la semana-Toda la semana
+132024,Comida del mar - Europea,2-3,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132026,Belga,2-3,Toda la semana
+132030,Francesa - Belga,2-3-4,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132103,Italiana,2,Toda la semana incluyendo domingo
+132107,Japanese,2-3,Toda la semana incluyendo fin de semana
+132109,Vegetariana - Orgánica,2,Toda la semana incluyendo fin de semana
+132115,Asiatica,2,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132116,Asiatica,2,Toda la semana incluyendo fin de semana
+132130,Turca,2,Toda la semana incluyendo fin de semana
+132155,Francesa - Mediterranea,3,Toda la semana-Sa-Sa-Do-Do-Toda la semana
+132159,Francesa,2-3,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132160,Belga,2-3,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132161,Francesa - Internacional,3-4,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132163,Cafeteria,3,Toda la semana incluyendo fin de semana
+132164,Internacional,2-3,Toda la semana incluyendo fin de semana
+132165,Internacional,2-3,Toda la semana-Toda la semana-Sa-Sa-Do-Do
+132187,Cafeteria - Bar,2-3,Sa-Do-Toda la semana-Toda la semana-Do-Sa
+132204,Internacional,2-3,Toda la semana incluyendo fin de semana
+132206,Internacional,2-3,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132207,Internacional - Italiana,2-3,Toda la semana incluyendo fin de semana
+132220,Francesa,2,Toda la semana-Toda la semana-Sa-Sa
+132221,Americana,2,Toda la semana-Toda la semana-Sa-Sa
+132229,Italiana,2,Toda la semana incluyendo fin de semana
+132231,Italiana,2-4,Toda la semana-Sa-Sa-Do-Do-Toda la semana
+132237,Japanese - Comida del mar - Asiatica,2,Do-Do-Sa-Sa-Toda la semana-Toda la semana
+132243,Francesa - Italiana,2,Toda la semana-Sa-Toda la semana-Sa
+132244,Francesa - Alemana - Italiana,2-3-5,Toda la semana-Toda la semana-Sa-Sa
+132275,América Latina,2,Toda la semana incluyendo fin de semana
+132297,Francesa,2-2,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132302,Americana - Polinesia,2,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132318,Mediterranea - Cafeteria,2-2,Toda la semana incluyendo fin de semana
+132319,Francesa - Belga,2-3,Toda la semana incluyendo fin de semana
+132353,Griego,2-2,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132355,Griego,2-3,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132361,Griego,2,Toda la semana incluyendo fin de semana
+132364,Griego,2-2,Toda la semana incluyendo fin de semana
+132396,Internacional,2-3-4,Toda la semana incluyendo fin de semana
+132399,Cafeteria,2-3,Toda la semana incluyendo fin de semana
+132407,Mediterranea,3,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132409,Comida del mar,2-3,Toda la semana
+132436,Internacional,2-3,Sa-Sa-Do-Do-Toda la semana-Toda la semana
+132437,Mediterranea,2-3,Toda la semana-Sa-Sa-Do-Do-Toda la semana
+132438,Mediterranea,2-3,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132439,Francesa - Belga,2-3,Toda la semana incluyendo fin de semana
+132443,Francesa - Internacional,2-3,Sa-Sa-Do-Do-Toda la semana-Toda la semana
+132446,Francesa,2-3,Toda la semana-Toda la semana-Sa-Sa
+132449,Cafeteria - Belga,3,Toda la semana incluyendo fin de semana
+132482,Alemana,2,Toda la semana-Toda la semana-Sa-Sa-Do-Do
+132483,Armeniana - Alemana - Persiana,2-2,Toda la semana incluyendo fin de semana
+132518,Japanese,2,Toda la semana
+132521,Francesa - Belga,2-3,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132527,Francesa - Belga,2-3-4,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132530,Cafeteria - Belga,2-3,Do-Do-Toda la semana-Toda la semana-Sa-Sa
+132531,Carne - Belga,2-3,Toda la semana incluyendo fin de semana
+132535,Internacional,2-3,Toda la semana-Toda la semana-Sa-Sa
+132544,Francesa,2,Toda la semana incluyendo fin de semana
+132545,Internacional,2-3,Sa-Do-Do-Toda la semana-Sa-Toda la semana
+132560,Regional,1,Toda la semana-Sa-Do
+132572,Cafeteria,1,Toda la semana-Sa-Do
+132573,Comida rápida,1-2,Toda la semana-Sa-Do
+132574,Comida rápida,1-2,Toda la semana-Sa-Do
+132575,Cenas,1-2-3,Toda la semana-Sa-Do
+132576,Comida rápida,1-2,Toda la semana-Sa-Do
+132577,Comida rápida,1-2,Toda la semana-Sa-Do
+132578,América Latina,1,Toda la semana-Sa-Do
+132580,América Latina,1,Toda la semana-Sa-Do
+132581,Helados,1,Toda la semana-Sa-Do
+132582,Pasteleria,1-2,Toda la semana-Sa-Do
+132584,América Latina,1,Toda la semana-Sa-Do
+132587,Americana,1,Toda la semana-Sa-Do
+132588,América Latina,1,Toda la semana-Sa-Do
+132589,Cafeteria,1-2,Toda la semana-Sa-Do
+132591,América Latina,1-2,Toda la semana-Sa-Do
+132592,América Latina,1-2-3-5,Toda la semana-Sa-Do
+132594,América Latina,1,Toda la semana-Sa-Do
+132595,América Latina,1,Toda la semana-Sa-Do
+132598,América Latina,1-3,Toda la semana-Sa-Do
+132607,América Latina,1,Toda la semana-Sa-Do
+132608,América Latina,1,Toda la semana-Sa-Do
+132609,Comida rápida,1,Toda la semana-Sa-Do
+132610,América Latina,1,Toda la semana-Sa-Do
+132611,América Latina,1,Toda la semana-Sa-Do
+132612,Comida rápida,1-2,Toda la semana-Sa-Do
+132613,América Latina,1,Toda la semana-Sa-Do
+132614,América Latina,1,Toda la semana-Sa-Do
+132615,América Latina,1,Toda la semana-Sa-Do
+132617,América Latina,1-2-3,Toda la semana-Sa-Do
+132618,Comida rápida,1,Toda la semana-Sa-Do
+132619,América Latina,1-2-3-5,Toda la semana-Sa-Do
+132620,Comida rápida,1,Toda la semana-Sa-Do
+132621,América Latina,1,Toda la semana-Sa-Do
+132622,Asiatica,1,Toda la semana-Sa-Do
+132623,América Latina,2-3,Toda la semana-Sa-Do
+132624,América Latina,1-2-3,Toda la semana-Sa-Do
+132625,América Latina,1-2-3-5,Toda la semana-Sa-Do
+132626,Italiana,1-2,Toda la semana-Sa-Do
+132628,Italiana,1,Toda la semana-Sa-Do
+132629,América Latina,1-2-3,Toda la semana-Sa-Do
+132631,América Latina,1,Toda la semana-Sa-Do
+132635,Americana,2,Toda la semana-Sa-Do
+132636,Americana,1,Toda la semana incluyendo fin de semana
+132638,Americana,2,Toda la semana-Sa-Do
+132640,Americana,1,Toda la semana-Sa-Do
+132642,Africana,1,Toda la semana-Sa-Do
+132645,Americana,1,Toda la semana-Sa-Do
+132648,Africana,1,Toda la semana-Sa-Do
+132650,Americana,1,Toda la semana-Sa-Do
+132653,Americana,1,Toda la semana-Sa-Do
+132655,Americana,1,Toda la semana-Sa-Do
+132658,Americana,1,Toda la semana-Sa-Do
+132667,Armeniana,1,Toda la semana-Sa-Do
+132671,Armeniana,1,Toda la semana-Sa-Do
+132674,Americana,1,Toda la semana-Sa-Do
+132675,América Latina,1,Toda la semana-Sa-Do
+132676,Armeniana,1,Toda la semana-Sa-Do
+132677,América Latina,1,Toda la semana-Sa-Do
+132678,América Latina,1,Toda la semana-Sa-Do
+132679,Americana,1,Toda la semana-Sa-Do
+132680,América Latina,1,Toda la semana-Sa-Do
+132681,América Latina,1,Toda la semana-Sa-Do
+132682,Americana,1-2-3,Toda la semana-Sa-Do
+132683,Americana,1-2,Toda la semana-Sa-Do
+132684,Americana,1-2,Toda la semana-Sa-Do
+132685,Carne,1-2-5,Toda la semana-Sa-Do
+132686,Thai,1-2,Toda la semana-Sa-Do
+132687,Japanese,1-2-3,Toda la semana-Sa-Do
+132688,América Latina,1-2-3,Toda la semana-Sa-Do
+132689,Americana,1-2-3,Toda la semana-Sa-Do
+132690,América Latina,1,Toda la semana-Sa-Do
+132691,América Latina,1-2,Toda la semana-Sa-Do
+132692,América Latina,1-2-3,Toda la semana-Sa-Do
+132693,Bar,1-2,Toda la semana-Sa-Do
+132694,América Latina,1,Toda la semana-Sa-Do
+132695,América Latina,1,Toda la semana-Sa-Do
+132696,América Latina,1,Toda la semana-Sa-Do
+132697,América Latina,1-2,Toda la semana-Sa-Do
+132698,América Latina,1,Toda la semana-Sa-Do
+132699,América Latina,1-2,Toda la semana-Sa-Do
+132700,América Latina,1-2,Toda la semana-Sa-Do
+132701,América Latina,1,Toda la semana-Sa-Do
+132702,América Latina,1,Toda la semana-Sa-Do
+132703,América Latina,1,Toda la semana-Sa-Do
+132704,América Latina,1,Toda la semana-Sa-Do
+132705,América Latina,1,Toda la semana-Sa-Do
+132706,América Latina,1-2,Toda la semana-Sa-Do
+132707,América Latina,1,Toda la semana-Sa-Do
+132708,América Latina,1,Toda la semana-Sa-Do
+132709,América Latina,1,Toda la semana-Sa-Do
+132710,América Latina,1,Toda la semana-Sa-Do
+132711,América Latina,1,Toda la semana-Sa-Do
+132712,América Latina,1,Toda la semana-Sa-Do
+132713,Americana,1,Toda la semana-Sa-Do
+132714,América Latina,1,Toda la semana-Sa-Do
+132715,América Latina,1,Toda la semana-Sa-Do
+132717,Comida rápida,1,Toda la semana-Sa-Do
+132718,Comida rápida,1,Toda la semana-Sa-Do
+132719,Comida rápida,1,Toda la semana incluyendo fin de semana
+132723,América Latina,1-2,Toda la semana-Sa-Do
+132724,Americana,1-2-3,Toda la semana-Sa-Do
+132725,Comida rápida,1,Toda la semana-Sa-Do
+132732,América Latina,1,Toda la semana-Sa-Do
+132733,Comida rápida,1-2-3,Toda la semana-Sa-Do
+132734,Comida rápida,1-2,Toda la semana-Sa-Do
+132735,América Latina,1-2-3,Toda la semana-Sa-Do
+132736,Coreana,1-2-3,Toda la semana-Sa-Do
+132737,América Latina,1,Toda la semana-Sa-Do
+132738,Comida rápida,1,Toda la semana-Sa-Do
+132739,América Latina,1,Toda la semana-Sa-Do
+132740,América Latina,1,Toda la semana-Sa-Do
+132741,América Latina,1,Toda la semana-Sa-Do
+132742,América Latina,1,Toda la semana-Sa-Do
+132743,América Latina,1,Toda la semana-Sa-Do
+132744,América Latina,1,Toda la semana-Sa-Do
+132745,Americana,1,Toda la semana-Sa-Do
+132746,América Latina,1,Toda la semana-Sa-Do
+132747,Asiatica,1-2-3,Toda la semana-Sa-Do
+132748,América Latina,1,Toda la semana-Sa-Do
+132749,América Latina,1,Toda la semana-Sa-Do
+132750,Comida rápida,1-3,Toda la semana-Sa-Do
+132751,Comida rápida,1-3,Toda la semana-Sa-Do
+132752,Cafeteria,1,Toda la semana-Sa-Do
+132753,América Latina,1,Toda la semana-Sa-Do
+132754,América Latina,1,Toda la semana-Sa-Do
+132755,América Latina,1-2-3,Toda la semana-Sa-Do
+132756,Italiana,1-2-3,Toda la semana-Sa-Do
+132757,América Latina,1,Toda la semana-Sa-Do
+132758,América Latina,1,Toda la semana-Sa-Do
+132760,América Latina,1-3,Toda la semana-Sa-Do
+132761,América Latina,1-2-3,Toda la semana-Sa-Do
+132766,Japanese,1,Toda la semana-Sa-Do
+132767,Vietnames,1-2,Toda la semana-Sa-Do
+132768,Familiar,1-3,Toda la semana-Sa-Do
+132769,América Latina,1,Toda la semana-Sa-Do
+132770,Española,1,Toda la semana-Sa-Do
+132771,Japanese,1-3,Toda la semana-Sa-Do
+132772,América Latina,1,Toda la semana-Sa-Do
+132773,Familiar - América Latina,1,Toda la semana-Sa-Do
+132774,Americana - Pasteleria - Desayuno - Comida rápida - Cafeteria - Cafeteria - Cenas - Familiar - América Latina,1-2-3,Toda la semana-Sa-Do
+132775,América Latina,1,Toda la semana-Sa-Do
+132776,América Latina,1-2-3,Toda la semana-Sa-Do
+132777,América Latina,1-2-3,Toda la semana-Sa-Do
+132778,América Latina,1,Toda la semana-Sa-Do
+132779,América Latina,1-2,Toda la semana-Sa-Do
+132781,América Latina,1-3,Toda la semana-Sa-Do
+132782,Familiar,1-2-3,Toda la semana-Sa-Do
+132783,Internacional,1-2-3,Toda la semana-Sa-Do
+132784,Italiana,1-2-3,Toda la semana-Sa-Do
+132785,América Latina,1-2-3,Toda la semana-Sa-Do
+132786,Internacional,1-2-3,Toda la semana-Sa-Do
+132787,Internacional,1-2-3,Toda la semana-Sa-Do
+132788,Americana,1-2,Toda la semana-Sa-Do
+132789,América Latina,1-2-3,Toda la semana-Sa-Do
+132790,Internacional,1-2-3,Toda la semana-Sa-Do
+132791,América Latina,1-2-3,Toda la semana-Sa-Do
+132792,Internacional,1-2-3,Toda la semana-Sa-Do
+132793,América Latina,1-2-3,Toda la semana-Sa-Do
+132794,Vegetariana,1,Toda la semana-Sa-Do
+132795,Americana,1-2,Toda la semana-Sa-Do
+132796,Americana,1-2,Toda la semana-Sa-Do
+132797,Cafeteria,1-3,Toda la semana-Sa-Do
+132798,América Latina,1,Toda la semana-Sa-Do
+132799,Armeniana,1-2-3,Toda la semana-Sa-Do
+132801,América Latina,1-3,Toda la semana-Sa-Do
+132802,Asiatica,1-2-3,Toda la semana-Sa-Do
+132803,Asiatica,1,Toda la semana-Sa-Do
+132804,Bar,1-2,Toda la semana-Sa-Do
+132805,América Latina,1,Toda la semana incluyendo fin de semana
+132806,América Latina,1-2-3,Toda la semana-Sa-Do
+132807,Cafeteria,1-2,Toda la semana-Sa-Do
+132810,Vegetariana,1,Toda la semana-Sa-Do
+132811,Internacional,1-2,Toda la semana-Sa-Do
+132825,América Latina,1,Toda la semana-Sa-Do
+132827,América Latina,1,Toda la semana-Sa-Do
+132828,América Latina,1,Toda la semana-Sa-Do
+132829,América Latina,1,Toda la semana-Sa-Do
+132834,América Latina,1,Toda la semana-Sa-Do
+132835,América Latina,1-2-3,Toda la semana-Sa-Do
+132836,América Latina,1,Toda la semana-Sa-Do
+132837,América Latina,1,Toda la semana-Sa-Do
+132840,América Latina,1,Toda la semana-Sa-Do
+132841,América Latina,1,Toda la semana-Sa-Do
+132842,América Latina,1,Toda la semana-Sa-Do
+132843,América Latina,1,Toda la semana-Sa-Do
+132845,América Latina,1,Toda la semana-Sa-Do
+132846,Internacional,1,Toda la semana-Sa-Do
+132851,Americana - Temática,1,Toda la semana-Sa-Do
+132852,América Latina - América Latina,1,Toda la semana-Sa-Do
+132853,Comida rápida,1,Toda la semana-Sa-Do
+132854,Internacional,1-2-3,Toda la semana-Sa-Do
+132855,América Latina,1,Toda la semana-Sa-Do
+132856,Italiana,1,Toda la semana-Sa-Do
+132857,Internacional,1-2-3,Toda la semana-Sa-Do
+132858,Comida rápida,1,Toda la semana-Sa-Do
+132859,Internacional,1-2-3,Toda la semana-Sa-Do
+132860,Internacional,1-2-3,Toda la semana-Sa-Do
+132861,Comida rápida,1-2-3,Toda la semana-Sa-Do
+132862,Internacional,1-2-3,Toda la semana-Sa-Do
+132863,Internacional,1-2-3,Toda la semana-Sa-Do
+132864,América Latina,1,Toda la semana-Sa-Do
+132865,América Latina,1,Toda la semana-Sa-Do
+132866,Pasteleria - Cafeteria,1,Toda la semana-Sa-Do
+132867,Bar - América Latina,1,Toda la semana-Sa-Do
+132868,América Latina,1,Toda la semana-Sa-Do
+132869,Comida rápida,1,Toda la semana-Sa-Do
+132870,Comida rápida,1,Toda la semana-Sa-Do
+132871,América Latina,1,Toda la semana-Sa-Do
+132872,Americana,1-3,Toda la semana-Sa-Do
+132873,Americana,1-2-3,Toda la semana-Sa-Do
+132875,Japanese,1-2-3,Toda la semana-Sa-Do
+132885,Cafeteria,1,Toda la semana-Sa-Do
+132886,Americana,1-2,Toda la semana-Sa-Do
+132887,Italiana,1-2-3,Toda la semana incluyendo fin de semana
+132888,Afganistan,1-2,Toda la semana-Sa-Do
+132889,América Latina,1,Toda la semana-Sa-Do
+132890,América Latina,1,Toda la semana-Sa-Do
+132891,América Latina,1,Toda la semana-Sa-Do
+132892,Asiatica,1-2,Toda la semana-Sa-Do
+132893,América Latina,1,Toda la semana-Sa-Do
+132894,América Latina,1,Toda la semana-Sa-Do
+132895,América Latina,1,Toda la semana-Sa-Do
+132896,América Latina,1,Toda la semana-Sa-Do
+132897,América Latina,1,Toda la semana-Sa-Do
+132899,América Latina,1,Toda la semana-Sa-Do
+132900,América Latina,1-2-3,Toda la semana-Sa-Do
+132901,Regional,1,Toda la semana-Sa-Do
+132902,América Latina,1,Toda la semana-Sa-Do
+132903,América Latina,1,Toda la semana-Sa-Do
+132904,América Latina,1,Toda la semana-Sa-Do
+132907,América Latina,1,Toda la semana-Sa-Do
+132908,América Latina,1,Toda la semana-Sa-Do
+132909,América Latina,1,Toda la semana-Sa-Do
+132910,América Latina,1,Toda la semana-Sa-Do
+132911,América Latina,1,Toda la semana-Sa-Do
+132912,América Latina,1,Toda la semana-Sa-Do
+132913,América Latina,1,Toda la semana-Sa-Do
+132914,América Latina,1,Toda la semana-Sa-Do
+132915,América Latina,1,Toda la semana-Sa-Do
+132916,Americana,1,Toda la semana-Sa-Do
+132917,Americana - América Latina,1-2-3,Toda la semana-Sa-Do
+132918,América Latina,1,Toda la semana-Sa-Do
+132919,América Latina,1,Toda la semana-Sa-Do
+132920,América Latina,1,Toda la semana-Sa-Do
+132921,Bar,1,Toda la semana-Sa-Do
+132922,Cafeteria,1,Toda la semana-Sa-Do
+132923,Familiar,1,Toda la semana-Sa-Do
+132924,Comida rápida,1,Toda la semana-Sa-Do
+132925,América Latina,1,Toda la semana-Sa-Do
+132926,América Latina,1,Toda la semana-Sa-Do
+132927,América Latina,1-2-3-5,Toda la semana-Sa-Do
+132928,América Latina,1,Toda la semana-Sa-Do
+132929,América Latina,1,Toda la semana-Sa-Do
+132930,América Latina,1,Toda la semana-Sa-Do
+132932,América Latina,1,Toda la semana-Sa-Do
+132933,Americana,1,Toda la semana-Sa-Do
+132934,América Latina,1,Toda la semana-Sa-Do
+132935,América Latina,1,Toda la semana-Sa-Do
+132936,América Latina,1,Toda la semana-Sa-Do
+132937,Bar,1,Toda la semana-Sa-Do
+132938,América Latina,1,Toda la semana-Sa-Do
+132939,América Latina,1,Toda la semana-Sa-Do
+132940,Comida rápida,1,Toda la semana-Sa-Do
+132941,América Latina,1,Toda la semana-Sa-Do
+132942,América Latina,1,Toda la semana-Sa-Do
+132945,América Latina,1,Toda la semana-Sa-Do
+132946,América Latina,1,Toda la semana-Sa-Do
+132947,América Latina,1-2,Toda la semana-Sa-Do
+132948,América Latina,1,Toda la semana-Sa-Do
+132950,América Latina,1,Toda la semana-Sa-Do
+132951,Americana,1,Toda la semana-Sa-Do
+132953,América Latina,1-2-3,Toda la semana-Sa-Do
+132954,Desayuno,1-2-3,Toda la semana-Sa-Do
+132955,Bar,1-2-3,Toda la semana-Sa-Do
+132956,Africana,1-2-3,Toda la semana-Sa-Do
+132957,Americana,1-2-3,Toda la semana-Sa-Do
+132958,Americana,1-2-3,Toda la semana-Sa-Do
+132959,América Latina,1,Toda la semana-Sa-Do
+132960,América Latina,1,Toda la semana-Sa-Do
+132961,América Latina,1,Toda la semana-Sa-Do
+132962,Comida rápida - Comida rápida,1,Toda la semana-Sa-Do
+132963,América Latina,1,Toda la semana-Sa-Do
+132964,Bar,1,Toda la semana-Sa-Do
+132965,Bar,1,Toda la semana-Sa-Do
+132966,Bar,1,Toda la semana-Sa-Do
+132967,Bar,1,Toda la semana-Sa-Do
+132968,Bar,1,Toda la semana-Sa-Do
+132969,Bar,1,Toda la semana-Sa-Do
+132970,Americana,1,Toda la semana-Sa-Do
+132971,América Latina,1,Toda la semana incluyendo fin de semana
+132972,América Latina,1,Toda la semana-Sa-Do
+132973,América Latina,1,Toda la semana-Sa-Do
+132980,América Latina,1,Toda la semana-Sa-Do
+132985,América Latina,1,Toda la semana-Sa-Do
+132986,América Latina,1,Toda la semana-Sa-Do
+132993,América Latina,1,Toda la semana-Sa-Do
+132994,Americana,1,Toda la semana-Sa-Do
+132995,Americana,1,Toda la semana-Sa-Do
+132996,América Latina,1,Toda la semana-Sa-Do
+133007,Americana,1,Toda la semana-Sa-Do
+133008,Americana,1,Toda la semana-Sa-Do
+133009,Americana,1,Toda la semana-Sa-Do
+133014,Contemporania,1,Toda la semana-Sa-Do
+133020,Americana,1,Toda la semana-Sa-Do
+133026,Familiar,1-3,Toda la semana-Sa-Do
+133027,Cafeteria,1-2,Toda la semana-Sa-Do
+133028,América Latina,1,Toda la semana-Sa-Do
+133029,Bar,1,Toda la semana-Sa-Do
+133030,Familiar,1-2-3,Toda la semana-Sa-Do
+133031,América Latina,1,Toda la semana-Sa-Do
+133032,América Latina,1,Toda la semana-Sa-Do
+133033,Americana,1-2,Toda la semana-Sa-Do
+133034,América Latina,1,Toda la semana-Sa-Do
+133035,América Latina,1,Toda la semana-Sa-Do
+133036,Familiar,1,Toda la semana-Sa-Do
+133037,América Latina,1,Toda la semana-Sa-Do
+133038,Cafeteria,1,Toda la semana-Sa-Do
+133043,Internacional,1-2-3,Toda la semana-Sa-Do
+133047,Americana,1,Toda la semana-Sa-Do
+133048,América Latina,1,Toda la semana-Sa-Do
+133049,América Latina,1,Toda la semana-Sa-Do
+134971,América Latina,1-2,Toda la semana-Sa-Do
+134972,Cafeteria - Cafeteria,1-2,Toda la semana-Sa-Do
+134973,América Latina,1-2,Toda la semana-Sa-Do
+134980,Comida del mar,1,Toda la semana-Sa-Do
+134981,Italiana,1,Toda la semana-Sa-Do
+134982,Bar - Bar,1,Toda la semana-Sa-Do
+134983,Bar - Bar,1-2,Toda la semana-Sa-Do
+134984,Italiana,1-2,Toda la semana-Sa-Do
+134985,América Latina,2,Toda la semana-Sa-Do
+134988,Mediterranea,2,Toda la semana-Sa-Do
+134989,América Latina,1-2,Toda la semana-Sa-Do
+134990,Bar - Bar,1,Toda la semana-Sa-Do
+135002,América Latina,2,Toda la semana-Sa-Do
+135003,Asiatica,1,Toda la semana-Sa-Do
+135004,Bar - Bar,1-2,Toda la semana-Sa-Do
+135005,América Latina,1,Toda la semana-Sa-Do
+135007,Bar - Bar - América Latina,2,Toda la semana-Sa-Do
+135008,Contemporania,1-2,Toda la semana-Sa-Do
+135018,América Latina,1-2-3,Toda la semana-Sa-Do
+135021,Comida rápida,1,Toda la semana-Sa-Do
+135022,América Latina,1,Toda la semana-Sa-Do
+135025,América Latina,1-2,Toda la semana-Sa-Do
+135027,América Latina,1-2,Toda la semana-Sa-Do
+135028,América Latina,1-2,Toda la semana-Sa-Do
+135029,Bar - Bar,1-2,Toda la semana-Sa-Do
+135030,Cafeteria - Cafeteria,1,Toda la semana-Sa-Do
+135031,Comida del mar,1-2,Toda la semana-Sa-Do
+135032,Cafeteria - Contemporania,1-2,Toda la semana-Sa-Do
+135034,Japanese,1-2,Toda la semana-Sa-Do
+135035,Italiana,1-2,Toda la semana-Sa-Do
+135036,Bar,1,Toda la semana-Sa-Do
+135037,América Latina,1-2,Toda la semana-Sa-Do
+135039,Comida del mar,1,Toda la semana-Sa-Do
+135041,Bar - Cafeteria,1,Toda la semana-Sa-Do
+135042,Asiatica,1,Toda la semana-Sa-Do
+135043,Comida rápida - Comida rápida,1,Toda la semana-Sa-Do
+135044,Asiatica,1,Toda la semana-Sa-Do
+135046,Comida rápida,1-2,Toda la semana-Sa-Do
+135048,Bar,1-2,Toda la semana-Sa-Do
+135049,Comida del mar,1,Toda la semana-Sa-Do
+135052,Bar - Bar,1-2,Toda la semana-Sa-Do
+135053,Cafeteria - Comida rápida - Comida rápida,1-2,Toda la semana-Sa-Do
+135054,Comida del mar,1-2,Toda la semana-Sa-Do
+135055,América Latina,1-2,Toda la semana-Sa-Do
+135056,Bar,1,Toda la semana-Sa-Do
+135057,Bar,1-2,Toda la semana-Sa-Do
+135058,Comida rápida,1-2,Toda la semana-Sa-Do
+135059,Bar,1,Toda la semana-Sa-Do
+135060,Comida del mar,1,Toda la semana-Sa-Do
+135061,Contemporania,1-2,Toda la semana-Sa-Do
+135069,Bar,1,Toda la semana-Sa-Do
+135071,Bar - Bar,1-2,Toda la semana-Sa-Do
+135072,Japanese,1-2,Toda la semana-Sa-Do
+135073,Bar - Bar,1-2,Toda la semana-Sa-Do
+135074,Contemporania,1-2,Toda la semana-Sa-Do
+135075,Comida del mar,1,Toda la semana-Sa-Do
+135079,Asiatica,1-2,Toda la semana-Sa-Do
+135085,Comida rápida,1,Toda la semana-Sa-Do
+135086,Comida rápida - Comida rápida,1-2,Toda la semana-Sa-Do
+135088,Cafeteria,1,Toda la semana-Sa-Do
+135089,Comida del mar,1-2-3,Toda la semana-Sa-Do
+135090,América Latina,1,Toda la semana-Sa-Do
+135091,Japanese - Asiatica,1-2,Toda la semana-Sa-Do
+135092,Cafeteria - América Latina,1,Toda la semana-Sa-Do
+135093,América Latina,1-3,Toda la semana-Sa-Do
+135094,América Latina,1,Toda la semana-Sa-Do
+135097,Cafeteria - Cafeteria - Contemporania - Comida rápida - Cenas - América Latina,1-2-3,Toda la semana-Sa-Do
+135098,América Latina - Internacional - América Latina - Carne,1-2-3,Toda la semana-Sa-Do
+135099,Asiatica - Helados - Internacional - Mongolian - Carne - Vegetariana,1-2,Toda la semana-Sa-Do
+135100,América Latina - Carne,1,Toda la semana-Sa-Do
+135101,América Latina - Carne,1,Toda la semana-Sa-Do
+135102,América Latina - América Latina - Carne,1-2-3,Toda la semana-Sa-Do
+135103,Comida rápida - Helados - Comida rápida - Comida rápida,1-2,Toda la semana-Sa-Do
+135104,América Latina,1-2,Toda la semana-Sa-Do
+135105,Comida rápida,1,Toda la semana-Sa-Do
+135106,América Latina,1-2,Toda la semana-Sa-Do
+135107,América Latina,1-2-3,Toda la semana-Sa-Do
+135109,Italiana,1,Toda la semana-Sa-Do
+135110,Española,1-2-3,Toda la semana-Sa-Do
